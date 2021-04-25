@@ -5,4 +5,4 @@ Hi, I'm just a Developer.
 ![](https://discord.c99.nl/widget/theme-1/697245896588656801.png)
 
 # Programming languages
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+![](https://cdn.discordapp.com/attachments/756663062487892052/835691699161923624/ezgif-2-552dce0c9190.png)
