@@ -9,7 +9,7 @@
 ![](https://cdn.discordapp.com/attachments/756663062487892052/835691699161923624/ezgif-2-552dce0c9190.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692452278960128/ezgif-2-bebfea419d26.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692842118283294/ezgif-2-e495b112e160.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835694273260683264/ezgif-2-efad19056c4f.png)
 
 # 🖊 | Github Informations
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashiDeveloper&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)](https://github.com/SashiDeveloper/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashiDeveloper&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashiDeveloper&langs_count=8&theme=radical)]
 
 
 # 🎲 | Tools
