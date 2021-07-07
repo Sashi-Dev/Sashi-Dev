@@ -13,4 +13,4 @@ My real name is Henrique, and I am Brazilian!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashiDeveloper&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🎲 | Tools
-![](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![](https://alternativetoapp.com/wp-content/uploads/2020/05/ejs_142671.jpg) ![](https://cdn.iconscout.com/icon/free/png-512/sass-226054.png)
+![](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![](https://alternativetoapp.com/wp-content/uploads/2020/05/ejs_142671.jpg) 
