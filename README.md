@@ -9,7 +9,7 @@
 ![](https://cdn.discordapp.com/attachments/756663062487892052/835691699161923624/ezgif-2-552dce0c9190.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692452278960128/ezgif-2-bebfea419d26.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692842118283294/ezgif-2-e495b112e160.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835694273260683264/ezgif-2-efad19056c4f.png)
 
 # 🖊 | Github Informations
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashiDeveloper&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashiDeveloper&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashiDeveloper&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashiDeveloper&layout=compact&theme=radical)
 
 # 🎲 | Tools
 ![](https://cdn.discordapp.com/attachments/756663062487892052/862306790431653908/ezgif-4-2ebb30e5f104.jpg) ![](https://cdn.discordapp.com/attachments/756663062487892052/862307100839772200/ezgif-4-35cb76598f27.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/862307511881170974/ezgif-4-ee77026b6244.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/862309273438912532/ezgif-4-f52eb9bad1a8.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/862312001467318311/ezgif-4-2c3b44107cde.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/862326434008399872/ezgif-4-4ad1e521e38d.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/862385869835337769/ezgif-2-ce4f3f571d29.png)
