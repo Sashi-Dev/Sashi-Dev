@@ -1,8 +1,6 @@
  🎊 | Sashi-Dev
 > * Hi, I'm just a Developer.
 > * My real name is Henrique, and I am Brazilian!
-# 💬 | My Discord
-![](https://discord.c99.nl/widget/theme-3/697245896588656801.png)
 
 # 🔧 | Programming Languages
 ![](https://cdn.discordapp.com/attachments/756663062487892052/835691699161923624/ezgif-2-552dce0c9190.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/869610017450520576/ezgif-2-d9e91661ac19.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692452278960128/ezgif-2-bebfea419d26.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835692842118283294/ezgif-2-e495b112e160.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/835694273260683264/ezgif-2-efad19056c4f.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/866693740181717032/ezgif-6-0bfe17cb99aa.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/867168698468401162/ezgif-7-8c8ac85e7a3a.png) ![](https://cdn.discordapp.com/attachments/756663062487892052/872143726556876851/ezgif-3-4d47e5f50f33.png)
